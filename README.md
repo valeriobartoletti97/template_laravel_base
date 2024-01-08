@@ -109,4 +109,7 @@ php artisan make:model Nome
 
 # creo le views relative
 
+#creo il seeder
+
+php artisan make:seeder UsersTableSeeder
 ```
